@@ -30,3 +30,6 @@ yarn-error.log*
 
 # Personal notes file
 .notes
+
+# env file
+.env
