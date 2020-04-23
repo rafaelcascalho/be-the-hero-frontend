@@ -24,6 +24,8 @@ Here is a link to the [project docs.](https://trello.com/b/UWFHM6CK/omnistack11-
 #### :warning: Required :warning:
 
 Node current LTS
+To install `node` and `npm` just [download it here]() or [follow this tutorial](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+To check the version run the command
 
 ```
 $ node -v
@@ -31,6 +33,8 @@ v12.16.1
 ```
 
 Yarn version 1.22.4 or npm (latest is advised)
+To install `yarn` just follow [their docs](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
+To check the version run the command
 
 ```
 $ yarn -v
