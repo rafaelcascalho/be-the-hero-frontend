@@ -44,13 +44,6 @@ Clone the repository
 ```
 $ git clone https://github.com/rafaelcascalho/be-the-hero-frontend.git
 
-Cloning into 'be-the-hero-frontend'...
-remote: Enumerating objects: 74, done.
-remote: Counting objects: 100% (74/74), done.
-remote: Compressing objects: 100% (56/56), done.
-remote: Total 74 (delta 20), reused 70 (delta 16), pack-reused 0
-Unpacking objects: 100% (74/74), done.
-
 $ cd be-the-hero-frontend
 ```
 
